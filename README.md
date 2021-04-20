@@ -79,16 +79,10 @@ Con estos datos se debe ingresar en la ruta http://localhost:8080/api/v1/users/l
 ## Base de datos utilizada
 **MySql**
 
-## Modelo relacional base
+## Entidades del modelo relacional base
 
-```mermaid
-graph LR
-A[Users] 
-```
+**Users** -> utilizada para el registro de usuarios
 
-```mermaid
-graph LR
-A[customers] 
-A --> C[creditcards]
+**Customers** utilizada para el registro de clientes
 
-```
+**CreditCards** utilizada para el registro de trajetas de crédito del cliente
