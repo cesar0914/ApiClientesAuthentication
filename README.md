@@ -1,6 +1,6 @@
 # API CLIENTES
 
-Api rest para el registro, modificación y eliminación de clientes y su tarjeta de crédito
+Api rest realizada bajo spring boot para el registro, modificación y eliminación de clientes y su tarjeta de crédito
 
 # Acceso local
 
