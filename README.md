@@ -81,8 +81,8 @@ Con estos datos se debe ingresar en la ruta http://localhost:8080/api/v1/users/l
 
 ## Entidades del modelo relacional base
 
-**Users** -> utilizada para el registro de usuarios
+- Users
 
-**Customers** utilizada para el registro de clientes
+- Customers
 
-**CreditCards** utilizada para el registro de trajetas de crédito del cliente
+- CreditCards
