@@ -81,6 +81,13 @@ Con estos datos se debe ingresar en la ruta http://localhost:8080/api/v1/users/l
 
 ## Modelo relacional base
 
+```seq
+Andrew->China: Says Hello 
+Note right of China: China thinks\nabout it 
+China-->Andrew: How are you? 
+Andrew->>China: I am good thanks!
+```
+
 ```mermaid
 graph LR
 A[Users] 
