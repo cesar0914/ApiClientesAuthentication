@@ -43,7 +43,7 @@ Con estos datos se debe ingresar en la ruta http://localhost:8080/api/v1/users/l
 	"password": "12345"
 
 }
-
+```
 ## Json ejemplo  para registro de clientes
 ```json
 {
